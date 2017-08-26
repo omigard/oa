@@ -9,3 +9,4 @@
 888888bcd8
 999999
 00000
+fix bug by Ericsz
